@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout name="unseen_item_symbol" width="108" height="14" version="0.1" uid="35B17DCC-44DB-A964-5765-FE2EC76F3CAC">
+  <window>
+    <border x="0" y="0" width="108" height="14" params="16" style="0" color="0x052a900">
+      <children>
+        <text x="4" y="0" width="100" height="14" params="4194320" style="0" name="text" caption="inventory.furni.tab.new">
+          <variables>
+            <var key="antialias_type" value="advanced" type="String"/>
+            <var key="auto_size" value="left" type="String"/>
+            <var key="font_face" value="Ubuntu" type="String"/>
+            <var key="grid_fit_type" value="subpixel" type="String"/>
+            <var key="text_color" value="0xffffff" type="hex"/>
+            <var key="mouse_wheel_enabled" value="false" type="Boolean"/>
+          </variables>
+        </text>
+      </children>
+    </border>
+  </window>
+</layout>

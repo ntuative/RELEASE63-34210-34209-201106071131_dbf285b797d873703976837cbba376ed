@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<manifest>
+
+	<component class="com.sulake.habbo.toolbar.HabboToolbar" version="0.0">
+	
+		<interface iid="com.sulake.iid.IIDHabboToolbar" />
+		
+		<assets>
+
+            <!-- Toolbar -->
+            <asset mimeType="text/xml" name="toolbar_view_xml" />
+            <asset mimeType="text/xml" name="toolbar_view_with_achievements_xml" />
+            <asset mimeType="text/xml" name="unseen_items_counter_xml" />
+
+            <asset mimeType="image/png" name="icon_navigator_normal" />
+            <asset mimeType="image/png" name="icon_catalogue_normal" />
+            <asset mimeType="image/png" name="icon_inventory_normal" />
+            <asset mimeType="image/png" name="icon_quests_normal" />
+            <asset mimeType="image/png" name="icon_achievements_normal" />
+
+            <asset mimeType="image/png" name="icon_navigator_hover" />
+            <asset mimeType="image/png" name="icon_catalogue_hover" />
+            <asset mimeType="image/png" name="icon_inventory_hover" />
+            <asset mimeType="image/png" name="icon_quests_hover" />
+            <asset mimeType="image/png" name="icon_achievements_hover" />
+
+            <!-- Other -->
+            <asset mimeType="text/xml" name="logout_xml" />
+            <asset mimeType="text/xml" name="logout_confirmation_xml" />
+
+			<asset mimeType="image/png" name="roominfo_icon" />
+
+		</assets>
+		
+	</component>
+	
+</manifest>
